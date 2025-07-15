@@ -1,2 +1,2 @@
 # ChronoElite
-ChronoElite is an elegant online store offering premium luxury watches from top brands. Explore timeless designs, exclusive collections, and refined craftsmanship for watch enthusiasts worldwide.
+ChronoElite is a modern web application for showcasing and selling luxury watches from renowned brands. Built with clean, modular code and a focus on elegant design, the platform offers users seamless navigation, detailed product pages, and a secure checkout experience. The project features responsive layouts for all devices and scalable architecture, making it suitable for expansion into global markets. Explore the codebase to discover how ChronoElite blends refined aesthetics with robust e-commerce functionality.
